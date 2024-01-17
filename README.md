@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a front-end developer and team lead with a  background in graphic and web design. I blend creative and technical skills to build engaging user experiences. Here's a bit about me:
 
-Front-end developer and team lead with prior experience in both graphic and web design.
-Committed to continuously expanding my skills and knowledge in web development technologies.
-Currently, mainly focused on blockchain technology, ⚛️ React.js and related web development tools.
+- 🌐 I’m focused on blockchain technology, ensuring that I stay at the forefront of this innovative field.
+- ⚛️ React.js is my go-to library for building user interfaces, and I'm skilled with an array of related web development tools.
+- 🛠️ I'm always looking to enhance my skill set and embrace new challenges in the tech world.
+- 🎨 With a foundation in design, I strive for elegance and functionality in every project.
+- 🤝 As a team lead, I foster a collaborative environment where ideas and skills can merge to create better solutions.
