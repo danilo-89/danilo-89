@@ -20,4 +20,4 @@ I'm a front-end developer and team lead with a  background in graphic and web de
 - 🌐 I enjoy working on projects related to blockchain technology..
 - 🛠️ I'm always looking to enhance my skill set and embrace new challenges in the tech world.
 - 🎨 Drawing from a background in design, my goal is to consistently achieve a balance between elegance and functionality in each project I undertake.
-- 🤝 As a team lead, I foster a collaborative environment where ideas and skills can merge to create better solutions.
+- 🤝 I appreciate being part of a collaborative environment where ideas and skills can merge to create better solutions.
