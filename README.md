@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Front-end developer and team lead with prior experience in both graphic and web design.
+Committed to continuously expanding my skills and knowledge in web development technologies.
+Currently, mainly focused on blockchain technology, ⚛️ React.js and related web development tools.
