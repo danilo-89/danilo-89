@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm a front-end developer and team lead with a  background in graphic and web design. I blend creative and technical skills to build engaging user experiences. Here's a bit about me:
 
-- 🌐 I’m focused on blockchain technology, ensuring that I stay at the forefront of this innovative field.
 - ⚛️ React.js is my go-to library for building user interfaces, and I'm skilled with an array of related web development tools.
+- 🌐 I enjoy working on projects related to blockchain technology..
 - 🛠️ I'm always looking to enhance my skill set and embrace new challenges in the tech world.
-- 🎨 With a foundation in design, I strive for elegance and functionality in every project.
+- 🎨 Drawing from a background in design, my goal is to consistently achieve a balance between elegance and functionality in each project I undertake.
 - 🤝 As a team lead, I foster a collaborative environment where ideas and skills can merge to create better solutions.
