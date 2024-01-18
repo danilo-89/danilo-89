@@ -21,7 +21,7 @@ I'm a front-end developer with a  background in graphic and web design.<br /> I 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - ⚛️ React.js is my go-to library for building user interfaces, and I actively work with diverse related web development tools.
-- 🌐 I enjoy working on diverse projects, including those associated with blockchain technology.
 - 🛠️ I'm always looking to enhance my skill set and embrace new challenges in the tech world.
+- 🌐 I enjoy working on diverse projects, including those associated with blockchain technology.
 - 🎨 With a design-focused background, I aim to consistently blend elegance and functionality in every project.
 - 🤝 I appreciate being part of a collaborative environment where ideas and skills can merge to create better solutions.
