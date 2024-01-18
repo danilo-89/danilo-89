@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a front-end developer and team lead with a  background in graphic and web design. I blend creative and technical skills to build engaging user experiences. Here's a bit about me:
+I'm a front-end developer with a  background in graphic and web design. I blend creative and technical skills to build engaging user experiences. Here's a bit about me:
 
 - ⚛️ React.js is my go-to library for building user interfaces, and I'm skilled with an array of related web development tools.
 - 🌐 I enjoy working on projects related to blockchain technology..
