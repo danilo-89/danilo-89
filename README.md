@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **danilo-89/danilo-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a front-end developer with a  background in graphic and web design. I blend creative and technical skills to build engaging user experiences. Here's a bit about me:
+I'm a front-end developer with a  background in graphic and web design. I blend creative and technical skills to build engaging user experiences.
 
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - ⚛️ React.js is my go-to library for building user interfaces, and I'm skilled with an array of related web development tools.
 - 🌐 I enjoy working on projects related to blockchain technology..
 - 🛠️ I'm always looking to enhance my skill set and embrace new challenges in the tech world.
