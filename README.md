@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 I'm a front-end developer with a  background in graphic and web design. I blend creative and technical skills to build engaging user experiences.
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- ⚛️ React.js is my go-to library for building user interfaces, and I'm skilled with an array of related web development tools.
+- ⚛️ React.js is my go-to library for building user interfaces, and I actively work with various other related web development tools
 - 🌐 I enjoy working on projects related to blockchain technology..
 - 🛠️ I'm always looking to enhance my skill set and embrace new challenges in the tech world.
 - 🎨 Drawing from a background in design, my goal is to consistently achieve a balance between elegance and functionality in each project I undertake.
