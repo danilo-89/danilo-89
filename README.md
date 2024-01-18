@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a front-end developer with a  background in graphic and web design.<br />
-I blend creative and technical skills to build engaging user experiences.
+
+<a href="https://github.com/danilo-89">   
+<img align="right" src="/images/astroman.png" width="200">
+</a>
+I'm a front-end developer with a  background in graphic and web design.<br /> I blend creative and technical skills to build engaging user experiences.
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - ⚛️ React.js is my go-to library for building user interfaces, and I actively work with diverse related web development tools.
