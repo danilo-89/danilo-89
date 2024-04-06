@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <img align="right" src="/images/astroman.png?" width="200">
 </a>
 As a front-end developer with a background in graphic and web design, I combine creative and technical skills to build engaging user experiences.
+<br />
 I enjoy working on interesting projects with a positive impact on society, including those associated with blockchain technology
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
