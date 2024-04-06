@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/danilo-89">   
 <img align="right" src="/images/astroman.png?" width="200">
 </a>
-I'm a front-end developer with a  background in graphic and web design.<br /> I blend creative and technical skills to build engaging user experiences.
+As a front-end developer with a background in graphic and web design, I combine creative and technical skills to build engaging user experiences.
+I enjoy working on interesting projects with a positive impact on society, including those associated with blockchain technology
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - ⚛️ React.js is my go-to library for building user interfaces, and I actively work with diverse related web development tools.
