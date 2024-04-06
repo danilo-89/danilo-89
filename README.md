@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/danilo-89">   
 <img align="right" src="/images/astroman.png?" width="200">
 </a>
+
 # Greetings, Earthlings!
 As a front-end developer with a background in graphic and web design, I combine creative and technical skills to build engaging user experiences.
 <br />
