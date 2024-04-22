@@ -25,6 +25,8 @@ As a front-end developer with a background in graphic and web design, I combine 
 <br />
 I enjoy working on interesting projects with a positive impact on society, including those associated with blockchain technology
 <br />
+I am interested in both the research and development aspects of frontend domain.
+<br />
 > Whether you have inquiries or employment opportunities to discuss, feel free to get in touch.
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
