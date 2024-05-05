@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+> Whether you have inquiries or employment opportunities to discuss, feel free to get in touch.
 -->
 
 # Greetings, Earthlings!
@@ -27,8 +28,6 @@ I enjoy working on interesting projects with a positive impact on society, inclu
 <br />
 <br />
 I am interested in both the 🧪 research and development aspects of frontend domain.
-<br />
-> Whether you have inquiries or employment opportunities to discuss, feel free to get in touch.
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - ⚛️ React.js is my go-to library for building user interfaces, and I actively work with diverse related web development tools.
